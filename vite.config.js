@@ -13,5 +13,5 @@ export default defineConfig({
   server: {
     historyApiFallback: true, // ✅ THIS LINE IS THE FIX
   },
-  base: "/calendarappust",
+  
 });
